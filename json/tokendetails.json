@@ -1,0 +1,23 @@
+{
+  "name": "My Token",
+  "symbol": "TKN",
+  "description": "This is my custom Solana token",
+  "image": "https://example.com/path/to/your/token/image.png",
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/path/to/your/token/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
